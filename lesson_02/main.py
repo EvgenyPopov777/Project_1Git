@@ -9,11 +9,9 @@ print(Type_list_numbers)
 
 for container in Type_list_numbers:
     Type_list_numbers = container ** 2
-    dict = {0: Type_list_numbers,1:Type_list_numbers,2:Type_list_numbers}
+    s = str(Type_list_numbers) * 3
+    dict = {Type_list_numbers: s}
     print(Type_list_numbers,dict)
-
-
-
 
 
 
