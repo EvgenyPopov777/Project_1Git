@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e91535b-6cb0-410c-8b00-2bad5f4984b1" name="Changes" comment="///">
+    <list default="true" id="1e91535b-6cb0-410c-8b00-2bad5f4984b1" name="Changes" comment="leassons_03">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework_03/main_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_03/main_3.py" afterDir="false" />
     </list>
@@ -314,7 +314,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638506485095</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="leassons_03">
+      <created>1638509719686</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1638509719686</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -337,6 +344,7 @@
     <MESSAGE value="ДЗ к уроку 2" />
     <MESSAGE value="lessons_02" />
     <MESSAGE value="///" />
-    <option name="LAST_COMMIT_MESSAGE" value="///" />
+    <MESSAGE value="leassons_03" />
+    <option name="LAST_COMMIT_MESSAGE" value="leassons_03" />
   </component>
 </project>
