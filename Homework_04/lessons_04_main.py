@@ -7,3 +7,5 @@ def power_numbers(*numbers,cub=0):
             cub=num**3
             print(cub)
 power_numbers(-3,1,2,3,4,5,0,6,-1)
+
+
