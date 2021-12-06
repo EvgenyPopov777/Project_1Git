@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1e91535b-6cb0-410c-8b00-2bad5f4984b1" name="Changes" comment="workspace">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework_04/lessons_04_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework_04/lessons_04_main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework_03/main_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_03/main_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -410,7 +409,28 @@
       <option name="project" value="LOCAL" />
       <updated>1638779270438</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="lessons_04">
+      <created>1638799188606</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1638799188606</updated>
+    </task>
+    <task id="LOCAL-00035" summary="lessons_03">
+      <created>1638799200346</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1638799200346</updated>
+    </task>
+    <task id="LOCAL-00036" summary="workspace">
+      <created>1638799217701</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1638799217701</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -437,8 +457,9 @@
     <MESSAGE value="leassons_02" />
     <MESSAGE value="leassons_01" />
     <MESSAGE value="lesson_03" />
-    <MESSAGE value="lessons_04" />
     <MESSAGE value="lessons_02" />
+    <MESSAGE value="lessons_04" />
+    <MESSAGE value="lessons_03" />
     <MESSAGE value="workspace" />
     <option name="LAST_COMMIT_MESSAGE" value="workspace" />
   </component>
