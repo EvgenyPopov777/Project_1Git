@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e91535b-6cb0-410c-8b00-2bad5f4984b1" name="Changes" comment="lesson_03">
+    <list default="true" id="1e91535b-6cb0-410c-8b00-2bad5f4984b1" name="Changes" comment="workspace">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework_04/lessons_04_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework_04/lessons_04_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_03/main_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_03/main_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +51,11 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Liar_\PycharmProjects\Project_1Git\lesson_02" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Liar_\PycharmProjects\Project_1Git\lesson01" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.lessons_04_main">
+  <component name="RunManager" selected="Python.main_3">
     <configuration name="lessons_04_main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_1Git" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,8 +163,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lessons_04_main" />
         <item itemvalue="Python.main_3" />
+        <item itemvalue="Python.lessons_04_main" />
         <item itemvalue="Python.main_1" />
         <item itemvalue="Python.main_2" />
       </list>
@@ -377,7 +382,35 @@
       <option name="project" value="LOCAL" />
       <updated>1638779049513</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="lessons_04">
+      <created>1638779166765</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1638779166765</updated>
+    </task>
+    <task id="LOCAL-00031" summary="workspace">
+      <created>1638779183178</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1638779183178</updated>
+    </task>
+    <task id="LOCAL-00032" summary="lessons_02">
+      <created>1638779257358</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1638779257358</updated>
+    </task>
+    <task id="LOCAL-00033" summary="workspace">
+      <created>1638779270438</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1638779270438</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -398,13 +431,15 @@
     <MESSAGE value="Mathematical expressions!!!" />
     <MESSAGE value="Git_ignore" />
     <MESSAGE value="ДЗ к уроку 2" />
-    <MESSAGE value="lessons_02" />
     <MESSAGE value="///" />
     <MESSAGE value="leassons_03" />
     <MESSAGE value="leassons_04" />
     <MESSAGE value="leassons_02" />
     <MESSAGE value="leassons_01" />
     <MESSAGE value="lesson_03" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson_03" />
+    <MESSAGE value="lessons_04" />
+    <MESSAGE value="lessons_02" />
+    <MESSAGE value="workspace" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace" />
   </component>
 </project>
