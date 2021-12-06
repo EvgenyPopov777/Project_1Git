@@ -1,4 +1,4 @@
-print('hello_world')
+print('hello_world')#
 print(7-2)
 print(0.2+0.5)
 print(10*2)
