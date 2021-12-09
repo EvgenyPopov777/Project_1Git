@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e91535b-6cb0-410c-8b00-2bad5f4984b1" name="Changes" comment="workspace">
+    <list default="true" id="1e91535b-6cb0-410c-8b00-2bad5f4984b1" name="Changes" comment="lessons_04">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework_04/lessons_04_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework_04/lessons_04_main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -466,7 +465,28 @@
       <option name="project" value="LOCAL" />
       <updated>1638968445765</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="lesson_04">
+      <created>1639044924428</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1639044924428</updated>
+    </task>
+    <task id="LOCAL-00040" summary="workspace">
+      <created>1639044943250</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1639044943250</updated>
+    </task>
+    <task id="LOCAL-00041" summary="lessons_04">
+      <created>1639044987247</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1639044987247</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -494,10 +514,10 @@
     <MESSAGE value="leassons_01" />
     <MESSAGE value="lesson_03" />
     <MESSAGE value="lessons_02" />
-    <MESSAGE value="lessons_04" />
     <MESSAGE value="lessons_03" />
     <MESSAGE value="lesson_04" />
     <MESSAGE value="workspace" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace" />
+    <MESSAGE value="lessons_04" />
+    <option name="LAST_COMMIT_MESSAGE" value="lessons_04" />
   </component>
 </project>
