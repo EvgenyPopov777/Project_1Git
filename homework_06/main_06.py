@@ -18,11 +18,10 @@ class Car():#создание класса Car
         self.started = started  # состояние заведён или нет
 
 
-    def Start(self):
+    def Start(self): #Проверка на старт
         if self.started == 'старт':
             print('Стартанули.')
             return True
-
         if self.started != 'старт':## Уровень топлива при условии, что стартанули.
             if self.fuel > 0:
                 self.started == True
@@ -31,7 +30,8 @@ class Car():#создание класса Car
             else:
                 print('Завести машину не удалось, т.к топлива  =',self.fuel)
 
-    def move(self,distance):
+
+    def move(self,distance):#Проверка на нехватку топлива
         self.distance = distance
         desc = distance * self.fuel_cnsuption
         if desc <=self.fuel:
@@ -39,6 +39,12 @@ class Car():#создание класса Car
             print('Топлива хватает, хорошего дня сэр!')
         elif desc > self.fuel:
             print(' Увы, но топлива на такое расстояние вам не хватит!')
+
+        # try:
+        #     if self.started != 'старт' and self.fuel == 0:
+        # except LowFuelError:
+        #     print('мы не стартанули и топлива 0')#почти..
+
 
 #Проверяем:
 my_car = Car(350,50,5,'tстарт')# Если пишем "незаведено мы никуда не поедем"
