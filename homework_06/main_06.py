@@ -18,37 +18,36 @@ class Car():#создание класса Car
         self.started = started  # состояние заведён или нет
 
 
-    def Start(self): #Проверка на старт
-        if self.started == 'старт':
-            print('Стартанули.')
-            return True
-        if self.started != 'старт':## Уровень топлива при условии, что стартанули.
-            if self.fuel > 0:
-                self.started == True
-                print('Чё-то мы не стартанули, давайте проверим уровень топлива: ')
-                print('Топливо в порядке, уровень заряда бака = '+str(self.fuel) + '%' + ' машина заведена')
-            else:
-                print('Завести машину не удалось, т.к топлива  =',self.fuel)
-
-
     def move(self,distance):#Проверка на нехватку топлива
         self.distance = distance
         desc = distance * self.fuel_cnsuption
         if desc <=self.fuel:
             print('Давайте проверим, хватит ли вам топлива, для дальнейшей поездки:')
-            print('Топлива хватает, хорошего дня сэр!')
+            #print('Топлива хватает, хорошего дня сэр!')
+            print('Топлива = '+ str(self.fuel)+ ' на  расстояние = ' +str(distance) + ' вам хватит.Хорошего дня сэр!')#конкатенация
         elif desc > self.fuel:
-            print(' Увы, но топлива на такое расстояние вам не хватит!')
+            print(' Увы, но топлива = '+ str(self.fuel)+ ' на  расстояние = ' +str(distance) + ' вам не хватит!')
 
+
+    def start(self): #Проверка на старт
         # try:
-        #     if self.started != 'старт' and self.fuel == 0:
-        # except LowFuelError:
-        #     print('мы не стартанули и топлива 0')#почти..
+            if self.started == 'старт' and self.fuel > 0:
+                print('Стартанули.')
+        # except LowFuelError :
+
+            if self.started != 'старт':
+                print('Чё-то мы не стартанули, давайте проверим уровень топлива: ')
+            if self.started != 'старт' and self.fuel == 0:
+                print('Неа мы даже не стартанём т.к топлива = 0')# не хочет выводить.
+            if self.fuel > 0:
+                print('Топливо в порядке, уровень заряда бака = '+str(self.fuel) + '%' + ' машину завели')#если не стартанули смотри есть ли топливо
+
+
 
 
 #Проверяем:
-my_car = Car(350,50,5,'tстарт')# Если пишем "незаведено мы никуда не поедем"
-print(my_car.Start())
+my_car = Car(350,50,5,'нстарт')# Если пишем "незаведено мы никуда не поедем"
+print(my_car.start())
 my_car.move(10)# Если ввести например 20, то программа нам скажет, топлива не хватит на такое расстояние.
 
 
