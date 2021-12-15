@@ -12,7 +12,6 @@ class Car():#создание класса Car
         desc = distance * self.fuel_cnsuption
         if desc <=self.fuel:
             print('Давайте проверим, хватит ли вам топлива, для дальнейшей поездки:')
-            #print('Топлива хватает, хорошего дня сэр!')
             print('Топлива = '+ str(self.fuel)+ ' на  расстояние = ' +str(distance) + ' вам хватит.Хорошего дня сэр!')#конкатенация
         elif desc > self.fuel:
             print(' Увы, но топлива = '+ str(self.fuel)+ ' на  расстояние = ' +str(distance) + ' вам не хватит!')
