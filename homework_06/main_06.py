@@ -1,14 +1,3 @@
-# # #Исключения
-# a =100
-# b = '2'
-# try:
-#     c = a /b
-# except :
-#     #c = 0
-#     print('Ошибка в делении')
-#     print('переменная а = ',a,'переменная b = ', b)
-# #print('Переменная с =',c)
-
 class Car():#создание класса Car
     def __init__(self,weight,fuel,fuel_cnsuption,started): #Иници-я параметра
         self.weigh = weight #Вес автомобиля типа int
@@ -29,25 +18,20 @@ class Car():#создание класса Car
             print(' Увы, но топлива = '+ str(self.fuel)+ ' на  расстояние = ' +str(distance) + ' вам не хватит!')
 
 
+
     def start(self): #Проверка на старт
 
-            if self.started == 'старт' and self.fuel > 0:
+            if self.started == 'старт' :
                 print('Стартанули.')
 
             if self.started != 'старт':
                 print('Чё-то мы не стартанули, давайте проверим уровень топлива: ')
             if self.fuel > 0:
                 print('Топливо в порядке, уровень заряда бака = '+str(self.fuel) + '%' + ' машину завели')#если не стартанули смотри есть ли топливо
-            try:
-                if self.started != 'старт' and self.fuel == 0:# если в условии хотябы одно не истино то ложь
-                    #return False
-                    #pass
-                    print('fsf')
-            except LowFuelError :
-                print('Неа мы даже не стартанём т.к топлива = 0')# не хочет выводить')
-
-
-
+            if self.started != 'старт' and self.fuel == 0:# если в условии хотябы одно не истино то ложь
+                class LowFuelError(Exception):
+                    print('Ещё не стартанули и  топлива = 0')
+                    raise LowFuelError('')
 
 
 #Проверяем:
