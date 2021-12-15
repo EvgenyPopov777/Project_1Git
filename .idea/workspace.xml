@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e91535b-6cb0-410c-8b00-2bad5f4984b1" name="Changes" comment="lessons_06">
+    <list default="true" id="1e91535b-6cb0-410c-8b00-2bad5f4984b1" name="Changes" comment="workspace">
       <change afterPath="$PROJECT_DIR$/homework_07/main_07.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/homework_07/models/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/homework_07/models/power_switch.py" afterDir="false" />
@@ -13,7 +13,6 @@
       <change afterPath="$PROJECT_DIR$/homework_07/models/switchables/switchable.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Project_1Git.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Project_1Git.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework_06/main_06.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_06/main_06.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -207,20 +206,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637908054319</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Git_ignore">
-      <created>1637911373524</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1637911373524</updated>
-    </task>
-    <task id="LOCAL-00006" summary="ДЗ к уроку 2">
-      <created>1638251649487</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1638251649487</updated>
     </task>
     <task id="LOCAL-00007" summary="lessons_02">
       <created>1638251760629</created>
@@ -551,7 +536,21 @@
       <option name="project" value="LOCAL" />
       <updated>1639480151809</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="lessons_06">
+      <created>1639579681790</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1639579681791</updated>
+    </task>
+    <task id="LOCAL-00055" summary="workspace">
+      <created>1639579697123</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1639579697123</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -584,8 +583,8 @@
     <MESSAGE value="lessons_04" />
     <MESSAGE value="lessons_05" />
     <MESSAGE value="lesson_06" />
-    <MESSAGE value="workspace" />
     <MESSAGE value="lessons_06" />
-    <option name="LAST_COMMIT_MESSAGE" value="lessons_06" />
+    <MESSAGE value="workspace" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace" />
   </component>
 </project>
