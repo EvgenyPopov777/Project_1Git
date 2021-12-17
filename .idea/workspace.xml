@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e91535b-6cb0-410c-8b00-2bad5f4984b1" name="Changes" comment="workspace">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_05/main_05.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_05/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_06/main_06.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_06/main_06.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +54,7 @@
       <recent name="C:\Users\Liar_\PycharmProjects\Project_1Git\lesson01" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (3)">
+  <component name="RunManager" selected="Python.main_06">
     <configuration name="VehicleeBase" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_1Git" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -69,27 +68,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="C:\Users\Liar_\PycharmProjects\Project_1Git\less_7\models\VehicleeBase.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="exceptions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Project_1Git" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/less_7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/less_7/exceptions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,6 +181,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main_06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project_1Git" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_06/main_06.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ship" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_1Git" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -226,11 +225,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main_06" />
         <item itemvalue="Python.main (3)" />
         <item itemvalue="Python.main_05" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main (2)" />
-        <item itemvalue="Python.exceptions" />
       </list>
     </recent_temporary>
   </component>
@@ -242,20 +241,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637908054319</updated>
-    </task>
-    <task id="LOCAL-00016" summary="lessons_02">
-      <created>1638424278681</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1638424278681</updated>
-    </task>
-    <task id="LOCAL-00017" summary="lessons_02">
-      <created>1638431413110</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1638431413110</updated>
     </task>
     <task id="LOCAL-00018" summary="lessons_02">
       <created>1638434890837</created>
@@ -586,7 +571,21 @@
       <option name="project" value="LOCAL" />
       <updated>1639743724174</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="lessons_05">
+      <created>1639752183198</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1639752183198</updated>
+    </task>
+    <task id="LOCAL-00066" summary="workspace">
+      <created>1639752195098</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1639752195099</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -617,11 +616,11 @@
     <MESSAGE value="lessons_03" />
     <MESSAGE value="lesson_04" />
     <MESSAGE value="lessons_04" />
-    <MESSAGE value="lessons_05" />
     <MESSAGE value="lesson_06" />
     <MESSAGE value="lessons_06" />
     <MESSAGE value="lessons_07" />
     <MESSAGE value="/" />
+    <MESSAGE value="lessons_05" />
     <MESSAGE value="workspace" />
     <option name="LAST_COMMIT_MESSAGE" value="workspace" />
   </component>
