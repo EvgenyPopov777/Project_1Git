@@ -7,7 +7,7 @@ class VehicleBase(BaseModel):
 
 
 @dataclass
-class Car():# Единственное, что я не сделал, так это наследование от VehuclaBase у Car и Plane. С ним, вся конструкция рушится.
+class Car():# Единственное, что я не сделал, так это наследование от VehiclaBase у Car и Plane. С ним, вся конструкция рушится.
     fuel: int
     started: bool = False
 
