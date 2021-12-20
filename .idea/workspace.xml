@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e91535b-6cb0-410c-8b00-2bad5f4984b1" name="Changes" comment="workspace">
-      <change beforePath="$PROJECT_DIR$/homework_06/main_06.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_06/main_06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_08/car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_08/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_08/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_08/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paract_08/demo_dataclasses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paract_08/demo_namedtuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paract_08/demo_tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paract_08/legacy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paract_08/pydantics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract_09/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,20 +52,21 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/homework_03" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Liar_\PycharmProjects\Project_1Git\lesson_02" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Liar_\PycharmProjects\Project_1Git\homework_08" />
       <recent name="C:\Users\Liar_\PycharmProjects\Project_1Git\Les_paract" />
       <recent name="C:\Users\Liar_\PycharmProjects\Project_1Git\lesson01" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main_06">
-    <configuration name="VehicleeBase" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.car">
+    <configuration name="car" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_1Git" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,11 +74,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/less_7/models" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_08" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Liar_\PycharmProjects\Project_1Git\less_7\models\VehicleeBase.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_08/car.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo_dataclasses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project_1Git" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/paract_08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/paract_08/demo_dataclasses.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exceptions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project_1Git" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_08/exceptions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,53 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_07" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_08" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_07/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Project_1Git" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/less_7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/less_7/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Project_1Git" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_05" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_05/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_08/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,7 +192,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main_06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="vehiclebase (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_1Git" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -189,32 +200,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_06" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_08" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_06/main_06.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ship" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Project_1Git" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/less_7/models" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Liar_\PycharmProjects\Project_1Git\less_7\models\ship.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_08/vehiclebase.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,11 +215,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main_06" />
-        <item itemvalue="Python.main (3)" />
-        <item itemvalue="Python.main_05" />
+        <item itemvalue="Python.car" />
         <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.exceptions" />
+        <item itemvalue="Python.vehiclebase (1)" />
+        <item itemvalue="Python.demo_dataclasses" />
       </list>
     </recent_temporary>
   </component>
@@ -241,20 +231,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637908054319</updated>
-    </task>
-    <task id="LOCAL-00018" summary="lessons_02">
-      <created>1638434890837</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1638434890837</updated>
-    </task>
-    <task id="LOCAL-00019" summary="lessons_02">
-      <created>1638436865706</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1638436865706</updated>
     </task>
     <task id="LOCAL-00020" summary="lessons_02">
       <created>1638437335197</created>
@@ -585,7 +561,21 @@
       <option name="project" value="LOCAL" />
       <updated>1639752195099</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="lessons_06">
+      <created>1639752896314</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1639752896314</updated>
+    </task>
+    <task id="LOCAL-00068" summary="workspace">
+      <created>1639752906932</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1639752906932</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -617,10 +607,10 @@
     <MESSAGE value="lesson_04" />
     <MESSAGE value="lessons_04" />
     <MESSAGE value="lesson_06" />
-    <MESSAGE value="lessons_06" />
     <MESSAGE value="lessons_07" />
     <MESSAGE value="/" />
     <MESSAGE value="lessons_05" />
+    <MESSAGE value="lessons_06" />
     <MESSAGE value="workspace" />
     <option name="LAST_COMMIT_MESSAGE" value="workspace" />
   </component>
