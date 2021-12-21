@@ -6,11 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1e91535b-6cb0-410c-8b00-2bad5f4984b1" name="Changes" comment="workspace">
       <change afterPath="$PROJECT_DIR$/homework_08/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_09/books.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_09/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_09/requirements.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pract_09/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -229,27 +225,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637908054319</updated>
-    </task>
-    <task id="LOCAL-00028" summary="leassons_01">
-      <created>1638779026388</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1638779026388</updated>
-    </task>
-    <task id="LOCAL-00029" summary="lesson_03">
-      <created>1638779049513</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1638779049513</updated>
-    </task>
-    <task id="LOCAL-00030" summary="lessons_04">
-      <created>1638779166765</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1638779166765</updated>
     </task>
     <task id="LOCAL-00031" summary="workspace">
       <created>1638779183178</created>
@@ -573,7 +548,28 @@
       <option name="project" value="LOCAL" />
       <updated>1640087597876</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="lessons_08">
+      <created>1640100984963</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1640100984964</updated>
+    </task>
+    <task id="LOCAL-00078" summary="requirements">
+      <created>1640101002922</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1640101002922</updated>
+    </task>
+    <task id="LOCAL-00079" summary="workspace">
+      <created>1640101015794</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1640101015794</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -590,8 +586,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Hiii" />
-    <MESSAGE value="Mathematical expressions!!!" />
     <MESSAGE value="Git_ignore" />
     <MESSAGE value="ДЗ к уроку 2" />
     <MESSAGE value="///" />
@@ -614,6 +608,8 @@
     <MESSAGE value="homework_08_fail_requirements" />
     <MESSAGE value="homework_08_fail_car" />
     <MESSAGE value="Scrambled eggs cooking plan!" />
+    <MESSAGE value="lessons_08" />
+    <MESSAGE value="requirements" />
     <MESSAGE value="workspace" />
     <option name="LAST_COMMIT_MESSAGE" value="workspace" />
   </component>
