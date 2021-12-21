@@ -9,7 +9,6 @@
       <change afterPath="$PROJECT_DIR$/homework_09/books.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/homework_09/main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/homework_09/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_10/fried_egg.puml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pract_09/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -50,7 +49,7 @@
     <property name="DefaultPlantUmlFileTemplate" value="UML Sequence" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/homework_10" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -230,20 +229,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637908054319</updated>
-    </task>
-    <task id="LOCAL-00026" summary="leassons_04">
-      <created>1638778794343</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1638778794343</updated>
-    </task>
-    <task id="LOCAL-00027" summary="leassons_02">
-      <created>1638778895479</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1638778895479</updated>
     </task>
     <task id="LOCAL-00028" summary="leassons_01">
       <created>1638779026388</created>
@@ -574,7 +559,21 @@
       <option name="project" value="LOCAL" />
       <updated>1640012594208</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="Scrambled eggs cooking plan!">
+      <created>1640087584019</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1640087584020</updated>
+    </task>
+    <task id="LOCAL-00076" summary="workspace">
+      <created>1640087597876</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1640087597876</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -614,6 +613,7 @@
     <MESSAGE value="homework_08_fail_exceptions" />
     <MESSAGE value="homework_08_fail_requirements" />
     <MESSAGE value="homework_08_fail_car" />
+    <MESSAGE value="Scrambled eggs cooking plan!" />
     <MESSAGE value="workspace" />
     <option name="LAST_COMMIT_MESSAGE" value="workspace" />
   </component>
