@@ -45,8 +45,6 @@ class  BooksDetailsResourse:
             result ={"message": f"book #{book_id!r} I'm sorry, but such a book has not been found"}# чтобы не вылизала 500 ошибка
         else:
             result ={"id":book_id,"name":name}
-
-            result = {"id":book_id,"name":name}
         res.text = json.dumps(result)
 books_list = BooksListResourse()
 books_details = BooksDetailsResourse()
