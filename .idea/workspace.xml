@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e91535b-6cb0-410c-8b00-2bad5f4984b1" name="Changes" comment="homework_08">
+    <list default="true" id="1e91535b-6cb0-410c-8b00-2bad5f4984b1" name="Changes" comment="lessons_02">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson_02/main 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_02/main 2.py" afterDir="false" />
     </list>
@@ -225,27 +225,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637908054319</updated>
-    </task>
-    <task id="LOCAL-00034" summary="lessons_04">
-      <created>1638799188606</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1638799188606</updated>
-    </task>
-    <task id="LOCAL-00035" summary="lessons_03">
-      <created>1638799200346</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1638799200346</updated>
-    </task>
-    <task id="LOCAL-00036" summary="workspace">
-      <created>1638799217701</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1638799217701</updated>
     </task>
     <task id="LOCAL-00037" summary="lesson_04">
       <created>1638968333200</created>
@@ -569,7 +548,28 @@
       <option name="project" value="LOCAL" />
       <updated>1640101260369</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="lessons_02">
+      <created>1640424972892</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1640424972892</updated>
+    </task>
+    <task id="LOCAL-00084" summary="workspace">
+      <created>1640424988653</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1640424988653</updated>
+    </task>
+    <task id="LOCAL-00085" summary="lessons_02">
+      <created>1640425091179</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1640425091179</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -593,7 +593,6 @@
     <MESSAGE value="leassons_02" />
     <MESSAGE value="leassons_01" />
     <MESSAGE value="lesson_03" />
-    <MESSAGE value="lessons_02" />
     <MESSAGE value="lessons_03" />
     <MESSAGE value="lesson_04" />
     <MESSAGE value="lessons_04" />
@@ -609,8 +608,9 @@
     <MESSAGE value="Scrambled eggs cooking plan!" />
     <MESSAGE value="lessons_08" />
     <MESSAGE value="requirements" />
-    <MESSAGE value="workspace" />
     <MESSAGE value="homework_08" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework_08" />
+    <MESSAGE value="workspace" />
+    <MESSAGE value="lessons_02" />
+    <option name="LAST_COMMIT_MESSAGE" value="lessons_02" />
   </component>
 </project>
