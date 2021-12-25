@@ -5,7 +5,7 @@ for elem in list_of_strings.split(): # В цикле прошёлся по ре�
 
 
 
-Type_list_numbers = list(range(99))#Создал переменную, в которой хранятся все числа
+Type_list_numbers = list(range(100))#Создал переменную, в которой хранятся все числа
 print('Проверяем, что тип переменной Type_list_numbers = типу list: :')
 print(type(Type_list_numbers))# Переменная  Type_list_numbers типа list.
 # print(Type_list_numbers)
