@@ -25,7 +25,6 @@ class Car():#создание класса Car
             print('Топлива осталось: ',self.fuel)
         elif desc > self.fuel:
             raise NotEnoughFuel("Увы, но топлива на такое расстояние вам не хватит.")
-            # print('Увы, но топлива = '+ str(self.fuel)+ ' на  расстояние = ' +str(self.distance) + ' вам не хватит!')
 
 
 class LowFuelError(Exception):
@@ -39,6 +38,7 @@ car = Car(10,5) # расстояние = 10, а расход = 5, соответ
 car.start(50)# топливо =50
 car.move()
 # car.move()
+
 
 
 
