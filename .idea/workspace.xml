@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e91535b-6cb0-410c-8b00-2bad5f4984b1" name="Changes" comment="workspace">
+    <list default="true" id="1e91535b-6cb0-410c-8b00-2bad5f4984b1" name="Changes" comment="homework_09">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_06/main_06.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_06/main_06.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +59,7 @@
       <recent name="C:\Users\Liar_\PycharmProjects\Project_1Git\lesson01" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main 2">
+  <component name="RunManager" selected="Python.main_06">
     <configuration name="exceptions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_1Git" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -208,9 +209,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main_06" />
         <item itemvalue="Python.main 2" />
         <item itemvalue="Python.exceptions" />
-        <item itemvalue="Python.main_06" />
         <item itemvalue="Python.main (3)" />
         <item itemvalue="Python.main (2)" />
       </list>
@@ -224,27 +225,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637908054319</updated>
-    </task>
-    <task id="LOCAL-00043" summary="workspace">
-      <created>1639046507963</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1639046507963</updated>
-    </task>
-    <task id="LOCAL-00044" summary="lessons_06">
-      <created>1639398259447</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1639398259447</updated>
-    </task>
-    <task id="LOCAL-00045" summary="workspace">
-      <created>1639398275099</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1639398275099</updated>
     </task>
     <task id="LOCAL-00046" summary="lessons_06">
       <created>1639399019516</created>
@@ -568,7 +548,28 @@
       <option name="project" value="LOCAL" />
       <updated>1640440558050</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="lessons_02">
+      <created>1640441707726</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1640441707726</updated>
+    </task>
+    <task id="LOCAL-00093" summary="workspace">
+      <created>1640441718452</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1640441718452</updated>
+    </task>
+    <task id="LOCAL-00094" summary="homework_09">
+      <created>1640443819165</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1640443819165</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -585,7 +586,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="leassons_03" />
     <MESSAGE value="leassons_04" />
     <MESSAGE value="leassons_02" />
     <MESSAGE value="leassons_01" />
@@ -606,10 +606,11 @@
     <MESSAGE value="lessons_08" />
     <MESSAGE value="requirements" />
     <MESSAGE value="homework_08" />
-    <MESSAGE value="lessons_02" />
     <MESSAGE value="homework_05" />
     <MESSAGE value="homework_06" />
+    <MESSAGE value="lessons_02" />
     <MESSAGE value="workspace" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace" />
+    <MESSAGE value="homework_09" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework_09" />
   </component>
 </project>
