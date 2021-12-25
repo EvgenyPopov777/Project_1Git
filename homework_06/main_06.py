@@ -1,42 +1,49 @@
-class Car():#создание класса Car
-    def __init__(self,weight,fuel,fuel_cnsuption,started): #Иници-я параметра
-        self.weigh = weight #Вес автомобиля типа int
-        self.fuel = fuel # Условное количество оставшегося топлива
-        self.fuel_cnsuption = fuel_cnsuption # условное значение, сколько
-        #едениц топлива расходуется на еденицу расстояния
-        self.started = started  # состояние заведён или нет
+class Car(Exception):#создание класса Car
+    def __init__(self,distance,fuel_consuption:int): #Иници-я параметра
+        self.weigh = int #Вес автомобиля типа int
+        self.started = False # состояние заведён или нет
+        self.fuel_cnsuption = fuel_consuption  # условное значение, сколько
+        self.distance =distance
+        # едениц топлива расходуется на еденицу расстояния
 
-
-    def move(self,distance):#Проверка на нехватку топлива
-        self.distance = distance
-        desc = distance * self.fuel_cnsuption
-        if desc <=self.fuel:
-            print('Давайте проверим, хватит ли вам топлива, для дальнейшей поездки:')
-            print('Топлива = '+ str(self.fuel)+ ' на  расстояние = ' +str(distance) + ' вам хватит.Хорошего дня сэр!')#конкатенация
-        elif desc > self.fuel:
-            print(' Увы, но топлива = '+ str(self.fuel)+ ' на  расстояние = ' +str(distance) + ' вам не хватит!')
-
-
-
-    def start(self): #Проверка на старт
-
-            if self.started == 'старт' :
-                print('Стартанули.')
-
-            if self.started != 'старт':
-                print('Чё-то мы не стартанули, давайте проверим уровень топлива: ')
+    def start(self,fuel: int): #Проверка на старт
+        self.fuel = fuel  # Условное количество оставшегося топлива
+        if self.started == False:
             if self.fuel > 0:
-                print('Топливо в порядке, уровень заряда бака = '+str(self.fuel) + '%' + ' машину завели')#если не стартанули смотри есть ли топливо
-            if self.started != 'старт' and self.fuel == 0:# если в условии хотябы одно не истино то ложь
-                class LowFuelError(Exception):
-                    print('Ещё не стартанули и  топлива = 0')
-                    raise LowFuelError('')
+                self.started = True
+                print('Не started. Включаем:', str(self.started) +'. Топливо > 0 и  = ' + str(self.fuel))
+            else:
+                raise LowFuelError("Ещё не стартанули и топлива = 0")
 
 
-#Проверяем:
-my_car = Car(350,50,5,'старт')# Если != старт  мы никуда не поедем"
-my_car.start()
-my_car.move(10)# Если ввести ,например,  20, то программа нам скажет, топлива не хватит на такое расстояние.
+    def move(self):#Проверка на нехватку топлива
+        print('Давайте проверим, хватит ли вам топлива, для дальнейшей поездки:')
+        desc = self.distance * self.fuel_cnsuption
+        if desc <= self.fuel:
+            print('Топлива = ' + str(self.fuel) + ' на  расстояние = ' + str(self.distance) + ' вам хватит.Хорошего дня сэр!')  # конкатенация
+            desc = desc -self.fuel
+            print('Топлива осталось: ',desc)
+        elif desc > self.fuel:
+            raise NotEnoughFuel("Увы, но топлива на такое расстояние вам не хватит.")
+            # print('Увы, но топлива = '+ str(self.fuel)+ ' на  расстояние = ' +str(self.distance) + ' вам не хватит!')
+
+
+class LowFuelError(Exception):
+    pass
+
+class NotEnoughFuel(Exception):
+    pass
+
+
+car = Car(10,5) # расстояние = 10, а расход = 5, соответственно у нас хватит топлива и топливо будет равно 0
+car.start(50)# топливо =50
+car.move()
+
+
+
+
+
+
 
 
 
