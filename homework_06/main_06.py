@@ -1,14 +1,14 @@
-class Car(Exception):#создание класса Car
+class Car():#создание класса Car
     def __init__(self,distance,fuel_consuption:int): #Иници-я параметра
         self.weigh = int #Вес автомобиля типа int
-        self.started = False # состояние заведён или нет
+        self.started = True # состояние заведён или нет #Если выставит в True то сразу переходит в блок move
         self.fuel_cnsuption = fuel_consuption  # условное значение, сколько
         self.distance =distance
         # едениц топлива расходуется на еденицу расстояния
 
     def start(self,fuel: int): #Проверка на старт
         self.fuel = fuel  # Условное количество оставшегося топлива
-        if self.started == False:
+        if not self.started:
             if self.fuel > 0:
                 self.started = True
                 print('Не started. Включаем:', str(self.started) +'. Топливо > 0 и  = ' + str(self.fuel))
@@ -21,8 +21,8 @@ class Car(Exception):#создание класса Car
         desc = self.distance * self.fuel_cnsuption
         if desc <= self.fuel:
             print('Топлива = ' + str(self.fuel) + ' на  расстояние = ' + str(self.distance) + ' вам хватит.Хорошего дня сэр!')  # конкатенация
-            desc = desc -self.fuel
-            print('Топлива осталось: ',desc)
+            self.fuel -=desc
+            print('Топлива осталось: ',self.fuel)
         elif desc > self.fuel:
             raise NotEnoughFuel("Увы, но топлива на такое расстояние вам не хватит.")
             # print('Увы, но топлива = '+ str(self.fuel)+ ' на  расстояние = ' +str(self.distance) + ' вам не хватит!')
@@ -38,6 +38,9 @@ class NotEnoughFuel(Exception):
 car = Car(10,5) # расстояние = 10, а расход = 5, соответственно у нас хватит топлива и топливо будет равно 0
 car.start(50)# топливо =50
 car.move()
+# car.move()
+
+
 
 
 
