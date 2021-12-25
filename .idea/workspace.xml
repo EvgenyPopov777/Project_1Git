@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1e91535b-6cb0-410c-8b00-2bad5f4984b1" name="Changes" comment="workspace">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_06/main_06.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_06/main_06.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,8 +58,8 @@
       <recent name="C:\Users\Liar_\PycharmProjects\Project_1Git\lesson01" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main_06">
-    <configuration name="books" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.main 2">
+    <configuration name="exceptions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_1Git" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,11 +67,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_09" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_09/books.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_07/exceptions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main 2" />
+        <item itemvalue="Python.exceptions" />
         <item itemvalue="Python.main_06" />
         <item itemvalue="Python.main (3)" />
-        <item itemvalue="Python.main 2" />
         <item itemvalue="Python.main (2)" />
-        <item itemvalue="Python.books" />
       </list>
     </recent_temporary>
   </component>
@@ -225,20 +224,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637908054319</updated>
-    </task>
-    <task id="LOCAL-00041" summary="lessons_04">
-      <created>1639044987247</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1639044987247</updated>
-    </task>
-    <task id="LOCAL-00042" summary="lessons_05">
-      <created>1639046493941</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1639046493941</updated>
     </task>
     <task id="LOCAL-00043" summary="workspace">
       <created>1639046507963</created>
@@ -569,7 +554,21 @@
       <option name="project" value="LOCAL" />
       <updated>1640430941877</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="homework_06">
+      <created>1640440547010</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1640440547010</updated>
+    </task>
+    <task id="LOCAL-00091" summary="workspace">
+      <created>1640440558050</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1640440558050</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -586,7 +585,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="///" />
     <MESSAGE value="leassons_03" />
     <MESSAGE value="leassons_04" />
     <MESSAGE value="leassons_02" />
@@ -610,6 +608,7 @@
     <MESSAGE value="homework_08" />
     <MESSAGE value="lessons_02" />
     <MESSAGE value="homework_05" />
+    <MESSAGE value="homework_06" />
     <MESSAGE value="workspace" />
     <option name="LAST_COMMIT_MESSAGE" value="workspace" />
   </component>
