@@ -1,3 +1,4 @@
+from exceptions import LowFuelError,NotEnoughFuel
 class Car():#создание класса Car
     def __init__(self,distance,fuel_consuption:int): #Иници-я параметра
         self.weigh = int #Вес автомобиля типа int
