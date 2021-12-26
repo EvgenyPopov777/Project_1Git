@@ -1,11 +1,5 @@
-from dataclasses import  dataclass
-@dataclass
-class exceept_1:
-    def fing():
-        raise Exception('LowFuelError -Недостаточно топлива')
+class LowFuelError(Exception):
+        pass
 
-@dataclass
-class exceept_2:
-    def fin():
-        raise ValueError('Перегрузка. Машина не расчитана на такой вес')
-
+class ValueError(Exception):
+        pass
