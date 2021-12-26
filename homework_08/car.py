@@ -34,13 +34,13 @@ class Plan(VehicleBase):
             raise ValueError('Превышен лимит груза')
 # Функция удаления груза...
     def remove_all_cargo(self):
-        # num = self.cargo
-        print('обнуляем self.cargo :')
+        num = self.cargo
+        print('обнуляем self.cargo и возвращаем то значение которое было :')
         self.cargo = 0
-        return self.cargo
+        return num
 #Основная функция...
 def main():
-    car =Car(color = 'Red', fuel = 0, started = False)
+    car =Car(color = 'Red', fuel = 50, started = False)
     print(car)
     car.start()
     plan =Plan(color = 'Red', cargo = 50, max_cargo = 200, additional_cargo=60,)
