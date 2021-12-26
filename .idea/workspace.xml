@@ -6,11 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="1e91535b-6cb0-410c-8b00-2bad5f4984b1" name="Changes" comment="workspace">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_07/exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_07/exceptions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework_07/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_07/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework_07/models/car.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_07/models/car.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_07/models/ship.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_07/models/ship.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_07/models/vehiclebase.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_07/models/vehiclebase.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework_08/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +62,27 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.main (2)">
+    <configuration name="car (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project_1Git" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_07/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_07/models/car.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="car" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_1Git" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -191,34 +209,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main_06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Project_1Git" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_06" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_06/main_06.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.car (1)" />
         <item itemvalue="Python.car" />
         <item itemvalue="Python.exceptions (1)" />
         <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.main_06" />
       </list>
     </recent_temporary>
   </component>
@@ -230,20 +227,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637908054319</updated>
-    </task>
-    <task id="LOCAL-00055" summary="workspace">
-      <created>1639579697123</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1639579697123</updated>
-    </task>
-    <task id="LOCAL-00056" summary="lessons_06">
-      <created>1639579761483</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1639579761483</updated>
     </task>
     <task id="LOCAL-00057" summary="workspace">
       <created>1639579775789</created>
@@ -574,7 +557,21 @@
       <option name="project" value="LOCAL" />
       <updated>1640521815761</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="lessons_07">
+      <created>1640523681764</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1640523681764</updated>
+    </task>
+    <task id="LOCAL-00105" summary="workspace">
+      <created>1640523693433</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1640523693433</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -598,7 +595,6 @@
     <MESSAGE value="lesson_04" />
     <MESSAGE value="lessons_04" />
     <MESSAGE value="lesson_06" />
-    <MESSAGE value="lessons_07" />
     <MESSAGE value="/" />
     <MESSAGE value="lessons_05" />
     <MESSAGE value="homework_08_fail_Car" />
@@ -615,6 +611,7 @@
     <MESSAGE value="lessons_06" />
     <MESSAGE value="workspace." />
     <MESSAGE value="homework_08" />
+    <MESSAGE value="lessons_07" />
     <MESSAGE value="workspace" />
     <option name="LAST_COMMIT_MESSAGE" value="workspace" />
   </component>
