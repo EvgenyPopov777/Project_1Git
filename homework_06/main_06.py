@@ -16,11 +16,11 @@ class Car():#создание класса Car
 
 
     def move(self,distance):#Проверка на нехватку топлива
-        self.distance =distance
+        distance:int
         print('Давайте проверим, хватит ли вам топлива, для дальнейшей поездки:')
-        desc = self.distance * self.fuel_cnsuption
+        desc = distance * self.fuel_cnsuption
         if desc <= self.fuel:
-            print('Топлива = ' + str(self.fuel) + ' на  расстояние = ' + str(self.distance) + ' вам хватит.Хорошего дня сэр!')  # конкатенация
+            print('Топлива = ' + str(self.fuel) + ' на  расстояние = ' + str(distance) + ' вам хватит.Хорошего дня сэр!')  # конкатенация
             self.fuel -=desc
             print('Топлива осталось: ',self.fuel)
         else:
