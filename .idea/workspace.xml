@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e91535b-6cb0-410c-8b00-2bad5f4984b1" name="Changes" comment="workspace">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="1e91535b-6cb0-410c-8b00-2bad5f4984b1" name="Changes" comment="workspace.">
       <change beforePath="$PROJECT_DIR$/homework_08/car.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_08/car.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_08/exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_08/exceptions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework_08/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -227,27 +225,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637908054319</updated>
-    </task>
-    <task id="LOCAL-00050" summary="lessons_06">
-      <created>1639405827474</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1639405827475</updated>
-    </task>
-    <task id="LOCAL-00051" summary="workspace">
-      <created>1639405844394</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1639405844394</updated>
-    </task>
-    <task id="LOCAL-00052" summary="lessons_06">
-      <created>1639480140325</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1639480140326</updated>
     </task>
     <task id="LOCAL-00053" summary="lessons_06">
       <created>1639480151809</created>
@@ -571,7 +548,28 @@
       <option name="project" value="LOCAL" />
       <updated>1640445780781</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="homework_08">
+      <created>1640521628842</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1640521628842</updated>
+    </task>
+    <task id="LOCAL-00100" summary="homework_08">
+      <created>1640521638954</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1640521638955</updated>
+    </task>
+    <task id="LOCAL-00101" summary="workspace.">
+      <created>1640521655013</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1640521655013</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -588,7 +586,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="leassons_04" />
     <MESSAGE value="leassons_02" />
     <MESSAGE value="leassons_01" />
     <MESSAGE value="lesson_03" />
@@ -606,13 +603,14 @@
     <MESSAGE value="Scrambled eggs cooking plan!" />
     <MESSAGE value="lessons_08" />
     <MESSAGE value="requirements" />
-    <MESSAGE value="homework_08" />
     <MESSAGE value="homework_05" />
     <MESSAGE value="lessons_02" />
     <MESSAGE value="homework_09" />
     <MESSAGE value="homework_06" />
     <MESSAGE value="lessons_06" />
     <MESSAGE value="workspace" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace" />
+    <MESSAGE value="homework_08" />
+    <MESSAGE value="workspace." />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace." />
   </component>
 </project>
