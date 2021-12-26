@@ -1,9 +1,8 @@
 class Car():#создание класса Car
-    def __init__(self,distance,fuel_consuption:int): #Иници-я параметра
+    def __init__(self,fuel_consuption:int): #Иници-я параметра
         self.weigh = int #Вес автомобиля типа int
         self.started = True # состояние заведён или нет #Если выставит в True то сразу переходит в блок move
         self.fuel_cnsuption = fuel_consuption  # условное значение, сколько
-        self.distance =distance
         # едениц топлива расходуется на еденицу расстояния
 
     def start(self,fuel: int): #Проверка на старт
@@ -16,7 +15,8 @@ class Car():#создание класса Car
                 raise LowFuelError("Ещё не стартанули и топлива = 0")
 
 
-    def move(self):#Проверка на нехватку топлива
+    def move(self,distance):#Проверка на нехватку топлива
+        self.distance =distance
         print('Давайте проверим, хватит ли вам топлива, для дальнейшей поездки:')
         desc = self.distance * self.fuel_cnsuption
         if desc <= self.fuel:
@@ -34,9 +34,9 @@ class NotEnoughFuel(Exception):
     pass
 
 
-car = Car(2,3) # расстояние = 10, а расход = 5, соответственно у нас хватит топлива и топливо будет равно 0
-car.start(10)# топливо =50
-car.move()
+car = Car(5) # расстояние = 10, а расход = 5, соответственно у нас хватит топлива и топливо будет равно 0
+car.start(50)# топливо =50
+car.move(10)
 # car.move()
 
 
