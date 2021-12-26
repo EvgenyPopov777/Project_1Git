@@ -15,8 +15,7 @@ class Car():#создание класса Car
                 raise LowFuelError("Ещё не стартанули и топлива = 0")
 
 
-    def move(self,distance):#Проверка на нехватку топлива
-        distance:int
+    def move(self,distance:int):#Проверка на нехватку топлива
         print('Давайте проверим, хватит ли вам топлива, для дальнейшей поездки:')
         desc = distance * self.fuel_cnsuption
         if desc <= self.fuel:
