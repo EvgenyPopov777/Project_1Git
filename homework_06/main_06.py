@@ -23,7 +23,7 @@ class Car():#создание класса Car
             print('Топлива = ' + str(self.fuel) + ' на  расстояние = ' + str(self.distance) + ' вам хватит.Хорошего дня сэр!')  # конкатенация
             self.fuel -=desc
             print('Топлива осталось: ',self.fuel)
-        elif desc > self.fuel:
+        else:
             raise NotEnoughFuel("Увы, но топлива на такое расстояние вам не хватит.")
 
 
@@ -34,8 +34,8 @@ class NotEnoughFuel(Exception):
     pass
 
 
-car = Car(10,5) # расстояние = 10, а расход = 5, соответственно у нас хватит топлива и топливо будет равно 0
-car.start(50)# топливо =50
+car = Car(2,3) # расстояние = 10, а расход = 5, соответственно у нас хватит топлива и топливо будет равно 0
+car.start(10)# топливо =50
 car.move()
 # car.move()
 
