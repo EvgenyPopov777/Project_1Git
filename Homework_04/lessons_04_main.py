@@ -1,9 +1,7 @@
 #-----------------------Задание №1
 def power_numbers(*number):
     u =[]
-    for i in number:
-        i=i**3
-        u.append(i)
+    [u.append(i**3) for i in number ]
     return u
 print(power_numbers(1,2,3,4,5,6))
 
