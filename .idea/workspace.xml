@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e91535b-6cb0-410c-8b00-2bad5f4984b1" name="Changes" comment="workspace">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework_09/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/homework_09/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -225,20 +224,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637908054319</updated>
-    </task>
-    <task id="LOCAL-00080" summary="workspace">
-      <created>1640101181570</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1640101181570</updated>
-    </task>
-    <task id="LOCAL-00081" summary="homework_08">
-      <created>1640101245431</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1640101245431</updated>
     </task>
     <task id="LOCAL-00082" summary="homework_08">
       <created>1640101260369</created>
@@ -569,7 +554,21 @@
       <option name="project" value="LOCAL" />
       <updated>1640574078677</updated>
     </task>
-    <option name="localTasksCounter" value="129" />
+    <task id="LOCAL-00129" summary="requirements">
+      <created>1640577458620</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1640577458620</updated>
+    </task>
+    <task id="LOCAL-00130" summary="workspace">
+      <created>1640577476925</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1640577476926</updated>
+    </task>
+    <option name="localTasksCounter" value="131" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -600,7 +599,6 @@
     <MESSAGE value="homework_08_fail_car" />
     <MESSAGE value="Scrambled eggs cooking plan!" />
     <MESSAGE value="lessons_08" />
-    <MESSAGE value="requirements" />
     <MESSAGE value="homework_05" />
     <MESSAGE value="homework_09" />
     <MESSAGE value="lessons_06" />
@@ -610,6 +608,7 @@
     <MESSAGE value="homework_06" />
     <MESSAGE value="lessons_02" />
     <MESSAGE value="lessons_04" />
+    <MESSAGE value="requirements" />
     <MESSAGE value="workspace" />
     <option name="LAST_COMMIT_MESSAGE" value="workspace" />
   </component>
